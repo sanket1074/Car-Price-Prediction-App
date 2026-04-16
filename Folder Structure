@@ -1,0 +1,16 @@
+CarPriceApp/
+│
+├── app.py
+├── train_model.py
+├── model.pkl
+├── encoder.pkl
+├── car_names.pkl
+├── accuracy.pkl
+├── car_data.csv
+│
+├── static/
+│   ├── style.css
+│   └── logo.png
+│
+└── templates/
+    └── index.html
